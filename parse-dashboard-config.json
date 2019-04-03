@@ -10,7 +10,8 @@
     "users": [
         {
             "user": "autism-admin",
-            "pass": "Ia123!"
+            "pass": "Ia123!",
+            "apps": [{"appId":"myAppId"}]
         }
     ],
     "useEncryptedPasswords": true
