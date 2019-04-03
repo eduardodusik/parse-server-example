@@ -34,6 +34,17 @@ var dashboard = new ParseDashboard({
       "appName": "MyApp" 
     }
   ],
+  "users": [
+    {
+        "user": "autism-admin",
+        "pass": "Ia123!",
+        "apps": [
+            {
+                "appId": "myAppId"
+            }
+        ]
+    }
+],
   "trustProxy": 1
 });
 
