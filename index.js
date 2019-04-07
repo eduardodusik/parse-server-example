@@ -40,7 +40,8 @@ var dashboard = new ParseDashboard({
         "pass": "Ia123!",
         "apps": [
             {
-                "appId": "myAppId"
+                "appId": "myAppId",
+                "masterKey" : "myMasterKey"
             }
         ]
     }
